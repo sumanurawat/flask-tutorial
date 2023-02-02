@@ -199,3 +199,15 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea
+
+build/
+dist/
+docs/_build/
+pip.egg-info/
+MANIFEST
+.tox
+*.egg
+*.py[cod]
+*~
+.coverage
+coverage.xml
